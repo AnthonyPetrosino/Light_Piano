@@ -6,5 +6,5 @@ void setup() {
 void loop() {
   int lightLevel = analogRead(A0); // Read the analog value from the photoresistor
   Serial.println(lightLevel);     // Send the light level to the serial port
-  delay(100);                     // Delay to reduce data frequency
+  delay(100);                     // Delay to reduce data frequency TODO Adjust to be faster?
 }
