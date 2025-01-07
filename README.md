@@ -4,6 +4,7 @@ I applied the Max/MSP skills that I learned in my Coding Music class (MUSC 242) 
 
 ## Demonstration
 [Demo Video](assets/Light_Piano_Video.mp4)
+https://github.com/username/repository-name/blob/main/assets/Light_Piano_Video.mp4
 
 ## How It Works
 
