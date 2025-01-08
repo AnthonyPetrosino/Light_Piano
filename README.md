@@ -3,8 +3,12 @@
 I applied the Max/MSP skills that I learned in my Coding Music class (MUSC 242) and my prior knowledge of Arduino to create an interactive, light-sensitive music generator. It combines the analog input from five photoresistors on a breadboard with audio manipulation in Max/MSP to create a responsive audio environment. Different light levels detected by the photoresistors influence various musical elements, offering an engaging and dynamic experience.
 
 ## Demonstration
-[Demo Video](Light_Piano/assets/Light_Piano_Video.mp4)
-https://github.com/username/repository-name/blob/main/assets/Light_Piano_Video.mp4
+
+
+
+https://github.com/user-attachments/assets/b93421ed-fd70-4fcd-b75d-365284771f5d
+
+
 
 ## How It Works
 
@@ -30,7 +34,7 @@ Higher light levels create a brighter, less muffled sound.
 Maps light levels to musical notes in a predefined scale (e.g., pentatonic or minor).
 Brightness corresponds to pitch changes.
 
-[Device Image](assets/Light_Piano_Picture.mp4)
+![Light_Piano_Picture](https://github.com/user-attachments/assets/244e0e7d-b9fc-41a1-a998-4c8eecb0282c)
 
 ## Future Enhancements
 Add visual feedback (e.g., LEDs) to represent light intensity.
